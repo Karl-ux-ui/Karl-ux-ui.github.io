@@ -2,4 +2,4 @@ title: Karl Turenne
 logo: "C:\ Users\ Nathan\ OneDrive - Collège Montmorency\ Documents\ lito\ portfolio\background 1.webp"
 #description: text below image
 #show _downloads: true
-theme: jekyll-remote-theme
+theme: pages-themes/architect@v0.2.0
