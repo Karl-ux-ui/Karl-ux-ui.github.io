@@ -3,3 +3,4 @@ logo: "C:\ Users\ Nathan\ OneDrive - Collège Montmorency\ Documents\ lito\ port
 description: text below image
 show _downloads: true
 theme: pages-themes/architect@v0.2.0
+<button id="backToTopBtn" onclick="scrollToTop()">Back to Top</button>/
